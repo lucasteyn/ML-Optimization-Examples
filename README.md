@@ -1,5 +1,5 @@
 # ML-Optimization-Examples
-This code contains some examples of optimization techniques using numpy. 
+This code contains some examples of optimization techniques using `numpy`. 
 
 ## Examples
 The examples are all Jupyter Notebooks. The dependencies for the code are:
